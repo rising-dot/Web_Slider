@@ -5,5 +5,4 @@ Made by javascript, html, css
 
 # Camera lens 
 
-Wide angle 35mm
-50mm lens
+Wide angle 35mm and 50mm lens

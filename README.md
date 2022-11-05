@@ -6,3 +6,5 @@ Made by javascript, html, css
 # Camera lens 
 
 Wide angle 35mm and 50mm lens
+
+https://rising-dot.github.io/Web_Slider/
